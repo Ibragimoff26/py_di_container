@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "di_container_ibragimoff"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Shapi Ibragimov", email="pypy_oem@nixstudio.ru" },
 ]

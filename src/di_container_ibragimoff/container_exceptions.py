@@ -8,3 +8,7 @@ class UnknownIdentifierException(Exception):
 
 class InvalidServiceIdentifierException(Exception):
     pass
+
+
+class TagAlreadyRegisteredForTheService(Exception):
+    pass

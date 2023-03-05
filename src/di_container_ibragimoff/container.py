@@ -1,6 +1,6 @@
 from typing import Any, Callable
 
-from src.di_container_ibragimoff.container_exceptions import FrozenServiceException, UnknownIdentifierException, \
+from di_container_ibragimoff.container_exceptions import FrozenServiceException, UnknownIdentifierException, \
     TagAlreadyRegisteredForTheService
 
 

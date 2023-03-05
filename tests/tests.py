@@ -1,5 +1,5 @@
 from typing import Any, Callable
-from src.di_container_ibragimoff.container import Container
+from di_container_ibragimoff.container import Container
 
 
 class TestService:
